@@ -1,0 +1,5 @@
+2            "DBd"     1                "DBd"
+3            "DBs"     2                "DBs"
+6            "SBs"     3                "SBs"
+7            "SBd"     4                "SBd"                                    
+5		     "Alone"   5		        "Alone"
